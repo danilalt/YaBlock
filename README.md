@@ -13,7 +13,7 @@
 3. Найдите **Tampermonkey**, нажмите **Подробнее** и включите
    **Разрешить пользовательские скрипты**. Без этого скрипт может быть
    установлен, но не запускаться на странице Почты.
-4. Нажмите **[Установить скрипт](https://raw.githubusercontent.com/ariha2804/YadsBlock/main/yandex-mail-no-ads.user.js)**.
+4. Нажмите **[Установить скрипт](https://raw.githubusercontent.com/ariha2804/YaBlock/main/yandex-mail-no-ads.user.js)**.
 5. В окне Tampermonkey нажмите **Установить**.
 6. Откройте [Яндекс Почту](https://mail.yandex.ru/) или обновите уже
    открытую вкладку. Проверьте область над письмами и правую колонку.
